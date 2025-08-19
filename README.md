@@ -42,3 +42,7 @@ To improve the Inventory Turnover Ratio and reach the target of 8, the following
 ### **Solution:**
 
 The core solution is to **optimize supply chain and demand forecasting**. By improving these two areas, the company can significantly reduce excess inventory and improve its turnover ratio.
+
+---
+*This file has been created using Jules.*
+*Additional contact: 23f1002830@ds.study.iitm.ac.in*
