@@ -1,0 +1,9 @@
+Inventory Turnover Ratio - 2024 Quarterly Data:
+
+Q1: 0.02
+Q2: 7.78
+Q3: 4.92
+Q4: 6.34
+Average: 4.76
+
+Industry Target: 8
